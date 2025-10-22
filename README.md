@@ -45,7 +45,7 @@ I focus on **design systems, prototyping, and front-end implementation** using m
 
 ## 🌐 Live Portfolio  
 
-🔗 **[View My Portfolio](https://your-portfolio-link.com)**  
+🔗 **[View My Portfolio](https://emmanuelbhattu.github.io)**  
 💌 **[Email Me](mailto:bhattuemmanuel1212@gmail.com)**  
 🐙 **[GitHub](https://github.com/emmanuelbhattu)**  
 💼 **[LinkedIn](https://linkedin.com/in/your-link)** *(optional, if you have one)*  
